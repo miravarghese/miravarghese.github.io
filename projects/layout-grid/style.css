@@ -1,0 +1,20 @@
+img{
+    max-width:500px;
+}
+
+.logo{
+    width:100px;
+}
+
+body{
+    font-family:'Lato',sans-serif;
+    font-size:16px;
+}
+
+h1,
+h2,
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #3C68D5;
+}
