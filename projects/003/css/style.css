@@ -1,0 +1,21 @@
+.logo{
+width: 150px;
+}
+
+img{
+  max-width: 500px;
+}
+
+h1,
+h3{
+  font-family: 'Poppins', sans-serif;
+  color: #CC561F;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  font-family: 'Ubuntu', sans-serif;
+}
