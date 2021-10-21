@@ -5,12 +5,26 @@ body{
     margin-left: 20px;
 }
 
+.navbar-toggler{
+    margin:0 auto;
+    text-align: center;
+}
+
+
+header{
+    margin-bottom:20px;
+}
+
+.about img{
+    margin-bottom:15px;
+}
 h1,
 h2,
 h3,
 h4
 {
     font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
 }
 
 h1{
@@ -48,7 +62,7 @@ h1{
 }
 
 h3{
-    font-size: 20px;
+    font-size: 30px;
     margin-left: 20px;
     font-weight: bold;
     color: #BDC3CB;
@@ -75,3 +89,14 @@ h4{
 .juneteenth desc{
    margin: 30px;
 }
+
+.container-fluid{
+    text-align: center;
+}
+
+@media (min-width:450px){
+h1{
+    font-size: 3em;
+    }
+}
+
