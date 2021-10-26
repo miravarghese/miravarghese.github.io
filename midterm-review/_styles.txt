@@ -1,0 +1,48 @@
+<!--FONTS-->
+
+Cormorant 
+Roboto
+
+<!--COLORS-->
+
+#FFECED [light red]
+#C6200C [dark red]
+
+-------
+
+HEADER: USE SMALL BREAKPOINTS
+ARTICLE: USE MEDIUM
+
+-------
+
+LOGO: 100px
+[use margin: 0 auto; to center]
+
+HED: 4.5, 700, ital
+SUBHED: 1.5, 100
+BYLINE: .8, 200, 1.2 letter spacing
+
+ARTICLE TEXT: 18px
+
+GRAPHIC BREAKOUT: 
+    H3 HEADER, center
+    SUBHED: .8, 300, center
+    CAPTION: .6, 300, left
+                
+ARTICLE SUBHED: 700
+
+SPAN TEXT: 5px padding, red background, white text
+
+FOOTER TEXT: 100
+
+IMG'S: 40px padding
+
+LINKS: black
+
+
+MEDIA QUERY: 
+    @ 600px
+    HED: 2em
+    SUBHED: 1em
+    CENTERED TOP TEXT
+
