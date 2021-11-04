@@ -89,14 +89,15 @@ footer{
     h1{
         font-size: 2em;
     }
-    .stat{
-        padding: 0px;
-        margin-bottom: 20px;
-    }
+
     .lebron{
         box-shadow: none;
         border-top: 3px solid #A8FF00;
         border-bottom: 3px solid #A8FF00;
+    }
+    .stat{
+        padding: 0px;
+        margin-bottom: 20px;
     }
     .rank-intro{
         border-bottom: 1px solid gray;
@@ -105,7 +106,7 @@ footer{
         padding-bottom: 20px;
         padding-left: 50px;
         padding-right: 50px;
-        font-size: 500px;
+        font-weight: 500;
         text-align: center;
     }
     .chart-1,
@@ -117,3 +118,4 @@ footer{
         padding-bottom: 20px;
     }
 }
+
