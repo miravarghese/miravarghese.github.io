@@ -1,0 +1,36 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color: #171810;
+}
+
+h1{
+    text-align: center;
+    font: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    color: #FF2511;
+    font-weight: 700;
+    font-style: bold;
+}
+h2{
+    font: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.byline{
+    text-align: center;
+}
+
+.subhead{
+    background-color: #FF2511;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.stat{
+    background-color: #FF2511;
+    color: white;
+}
