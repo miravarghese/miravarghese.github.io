@@ -10,12 +10,16 @@ h1{
     color: #FF2511;
     font-weight: 700;
     font-style: bold;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 3.5em;
 }
 h2{
     font: 'Montserrat', sans-serif;
     font-size: 1.5em;
     text-transform: uppercase;
     text-align: center;
+    margin-top: 20px;
 }
 
 .byline{
@@ -33,4 +37,26 @@ h2{
 .stat{
     background-color: #FF2511;
     color: white;
+}
+
+footer{
+    border-top: 2px dashed #171810;
+}
+
+a{
+    color: #171810;
+    font-weight: 500;
+}
+
+
+@media (max-width: 768px) {
+    h1{
+        font-size: 1.5em;
+    }
+
+}
+@media (min-width: 768px){
+    h1{
+        font-size: 2em;
+    }
 }
